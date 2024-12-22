@@ -194,14 +194,13 @@ body {
         padding: 10px;
     }
 }
-@media (min-width: 0px) and (max-width: 320px){
+@media (min-width: 0px) and (max-width: 1240px){
     #left {
         display: none;
     }
 
 }
 @media (min-width: 320px) and (max-width: 3200px){
-    
 }
 /* LEFT AREA CSS END  */
 /* MEDDLE AREA CSS START  */
